@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Card from './components/Card.vue';
-import Photo from './components/Photo.vue';
 import Display from './components/Display.vue';
 import Search from './components/Search.vue';
 import Intro from './components/Intro.vue';
