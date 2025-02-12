@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import Card from './components/Card.vue';
 import Display from './components/Display.vue';
 import Search from './components/Search.vue';
